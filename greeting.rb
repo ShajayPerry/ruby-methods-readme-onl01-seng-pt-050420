@@ -7,4 +7,4 @@ greeting
 greeting
 greeting
 greeting
-submit 
+learn submit 
